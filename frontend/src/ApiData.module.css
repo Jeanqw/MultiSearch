@@ -1,0 +1,24 @@
+.resultados{
+    padding: 0.5%;
+    width: 28.75%;
+    margin-left: 35%;
+    margin-top: 2%;
+    border: 2px solid rgb(174, 171, 171);
+    border-radius: 5px;
+}
+
+.resultados h3{
+    margin-top: 0;
+    width: 100%;
+    border-bottom: 2px solid rgb(174, 171, 171);
+    
+}
+
+.resultados p{
+    width: 100%;
+}
+
+.id{
+    text-decoration: underline;
+    color: red;
+}
