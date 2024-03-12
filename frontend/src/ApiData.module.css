@@ -6,6 +6,13 @@
     border: 2px solid rgb(174, 171, 171);
     border-radius: 5px;
 }
+.print{
+    margin-top: -7%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+
 
 .resultados h3{
     margin-top: 0;
@@ -14,11 +21,28 @@
     
 }
 
-.resultados p{
-    width: 100%;
-}
-
 .id{
     text-decoration: underline;
     color: red;
+    width: 20%;
+    height: 25%;
+}
+
+.name{
+    width: 60%;
+    height: 35%;
+    text-align: left;
+    margin-left: 7%;
+}
+
+.name_eq{
+    width: 80%;
+    height: 35%;
+    text-align: left;
+    margin-left: 7%;
+}
+
+.qtd{
+    width: 20%;
+    height: 25%;
 }
